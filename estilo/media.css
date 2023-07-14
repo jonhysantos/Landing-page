@@ -32,7 +32,9 @@
     }
 
     img {
-        display: none;
+        display: block;
+        width: 450px;
+        margin-top: 30px;
     }
 
     ul {
